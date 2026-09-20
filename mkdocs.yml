@@ -1,0 +1,15 @@
+site_name: La web de Juanjo 
+theme:
+  name: material
+  palette:
+    # Modo claro (por defecto)
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+    # Modo oscuro automático
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+
