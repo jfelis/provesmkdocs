@@ -12,4 +12,8 @@ theme:
       scheme: slate
       primary: indigo
       accent: indigo
-
+nav:
+  - Intro: index.md
+  - Exemples:
+    - Exemple1: materials.md
+    - Exemple2: materials2.md
